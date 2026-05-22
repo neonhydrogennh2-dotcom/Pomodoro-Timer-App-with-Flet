@@ -54,6 +54,9 @@ Current stored data includes:
 
 ---
 
+## App Preview 
+![App Preview](assets/cosmic-pomodoro.jpeg)
+
 ## Planned Features
 
 - Starfield visual feedback system

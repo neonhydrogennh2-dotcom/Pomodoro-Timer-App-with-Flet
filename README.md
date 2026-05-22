@@ -1,5 +1,7 @@
 # Pomodoro-Timer-App-with-Flet
 
+# Cosmic Pomodor
+
 A minimalist Pomodoro timer built with Python and Flet.
 
 The app focuses on fast performance, clean UI, and lightweight visual feedback instead of heavy animations or gamified systems.
@@ -68,7 +70,7 @@ Current stored data includes:
 Clone the repository:
 
 ```bash
-git clone https://github.com/neonhydrogennh2-dotcom/Pomodoro-Timer-App-with-Flet.git
+git clone https://github.com/neonhydrogennh2-dotcom/cosmic-pomodoro.git
 cd cosmic-pomodoro
 ```
 

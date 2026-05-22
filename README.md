@@ -55,7 +55,7 @@ Current stored data includes:
 ---
 
 ## App Preview 
-![App Preview](assets/cosmic-pomodoro.jpeg)
+![App Preview](assets/celestial-pomodoro.jpeg)
 
 ## Planned Features
 
